@@ -118,7 +118,6 @@ https://sciqus-redesign.vercel.app
 
 Omkar Patel
 
-* Portfolio: https://omkarpatel.in
 * Email: [omkarpatelhere@gmail.com](mailto:omkarpatelhere@gmail.com)
 
 ---
